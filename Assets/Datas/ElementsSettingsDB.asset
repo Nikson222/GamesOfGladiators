@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63b0198fae49a43e5abe9d335c0c0718, type: 3}
+  m_Name: ElementsSettingsDB
+  m_EditorClassIdentifier: 
+  elementsStyleSettings:
+  - elementsTypeType: 0
+    sprite: {fileID: 21300000, guid: f5ae6d00e442a4985a03422487fdb023, type: 3}
+    winSprite: {fileID: 21300000, guid: eb7eb978bc103441395ae476fcd768b9, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 10
+      - winCount: 10
+        coefficient: 25
+      - winCount: 12
+        coefficient: 50
+  - elementsTypeType: 1
+    sprite: {fileID: 21300000, guid: 336ef07ad8e9b4e5ab5df25f4ffdd11d, type: 3}
+    winSprite: {fileID: 21300000, guid: 2d9908f60b97e4859b8df53ccae6c750, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 1
+      - winCount: 10
+        coefficient: 1.5
+      - winCount: 12
+        coefficient: 10
+  - elementsTypeType: 2
+    sprite: {fileID: 21300000, guid: df99056816eca4d8ba62451165d9f35c, type: 3}
+    winSprite: {fileID: 21300000, guid: e80910d07ac96466299c99b6355ffb8a, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 1.5
+      - winCount: 10
+        coefficient: 2
+      - winCount: 12
+        coefficient: 12
+  - elementsTypeType: 3
+    sprite: {fileID: 21300000, guid: 3fec1554bb1d34034ad7b1416595de92, type: 3}
+    winSprite: {fileID: 21300000, guid: ce4835a34230d4cad858c9e2b704b564, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 0.25
+      - winCount: 10
+        coefficient: 0.75
+      - winCount: 12
+        coefficient: 2
+  - elementsTypeType: 4
+    sprite: {fileID: 21300000, guid: 79c8636d340004328ba6392c40dd9d69, type: 3}
+    winSprite: {fileID: 21300000, guid: ea690f895f5754cd297dc9f809126c6d, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 2.5
+      - winCount: 10
+        coefficient: 10
+      - winCount: 12
+        coefficient: 25
+  - elementsTypeType: 5
+    sprite: {fileID: 21300000, guid: 0b831440252b14a48af8e125bc9a81d5, type: 3}
+    winSprite: {fileID: 21300000, guid: 76db8245844924762a37f8f8b8d84055, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 2
+      - winCount: 10
+        coefficient: 5
+      - winCount: 12
+        coefficient: 15
+  - elementsTypeType: 6
+    sprite: {fileID: 21300000, guid: 1d09983c9e44a4e4b80d1a8fd8b1203c, type: 3}
+    winSprite: {fileID: 21300000, guid: 509bc9f54b29b487babb318b2697d59d, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 0.4
+      - winCount: 10
+        coefficient: 0.9
+      - winCount: 12
+        coefficient: 4
+  - elementsTypeType: 7
+    sprite: {fileID: 21300000, guid: 2b650016cb8e04d7da221e18a7cfd6bd, type: 3}
+    winSprite: {fileID: 21300000, guid: 326249bbdb9b34c66aa2ff4cf531aee5, type: 3}
+    winSettings:
+      standartFieldElementCounts: 30
+      winCoeficients:
+      - winCount: 8
+        coefficient: 0.5
+      - winCount: 10
+        coefficient: 1
+      - winCount: 12
+        coefficient: 5

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbcc7d8a7d04b47b5b0293998242c278, type: 3}
+  m_Name: FieldSizeDB
+  m_EditorClassIdentifier: 
+  _fieldSizes:
+  - fieldSizeType: 0
+    rows: 3
+    columns: 4
+    FieldPanelPrefab: {fileID: 7198748928178168466, guid: 949ab4a99f0ba435e8a033c27b5e4e59, type: 3}
+  - fieldSizeType: 1
+    rows: 4
+    columns: 5
+    FieldPanelPrefab: {fileID: 2916677828940575676, guid: cdd72560cf4294f869ed67256f9e8285, type: 3}
+  - fieldSizeType: 2
+    rows: 5
+    columns: 6
+    FieldPanelPrefab: {fileID: 207681787882692243, guid: 59b70a55d3a31478eae8a3998ebfe560, type: 3}
+  - fieldSizeType: 3
+    rows: 6
+    columns: 7
+    FieldPanelPrefab: {fileID: 7811619702100795767, guid: b6948345ed5204877b74335873cb27ac, type: 3}
